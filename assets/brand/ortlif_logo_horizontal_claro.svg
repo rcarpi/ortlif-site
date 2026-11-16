@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2D8CFF"/><stop offset="100%" stop-color="#7A5CFF"/></linearGradient></defs><rect width="900" height="220" fill="#FFFFFF"/>
+<g transform="translate(25 10) scale(1)"><path d="M 53 48 C 78 22, 126 24, 151 48 C 174 70, 172 111, 147 139 C 123 166, 78 176, 49 151 C 21 127, 26 77, 53 48 Z" fill="none" stroke="url(#g)" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-14 100 100)"/></g>
+<text x="245" y="126" fill="#0B1220" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="600" letter-spacing="7">ORTLIF</text>
+<rect x="650" y="51" width="12" height="12" fill="#2D8CFF"/>
+<text x="250" y="174" fill="#0B1220" opacity=".78" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="5">SIMPLIFICANDO O COMPLEXO.</text>
+</svg>

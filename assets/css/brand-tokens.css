@@ -1,0 +1,9 @@
+:root {
+  --ortlif-navy: #0B1220;
+  --ortlif-blue: #2D8CFF;
+  --ortlif-violet: #7A5CFF;
+  --ortlif-gray: #E6E9F0;
+  --ortlif-white: #FFFFFF;
+  --ortlif-gradient: linear-gradient(135deg, #2D8CFF 0%, #7A5CFF 100%);
+  --ortlif-font: 'Inter', 'Montserrat', Arial, sans-serif;
+}

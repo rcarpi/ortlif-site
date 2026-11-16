@@ -1,0 +1,27 @@
+# ORTLIF
+
+> ORTLIF — Simplificando o complexo.
+
+A ORTLIF atua em engenharia de software, integração de sistemas, automação inteligente e cloud & evolução. Sua proposta é transformar desafios complexos em soluções digitais úteis, integradas e confiáveis.
+
+## Site institucional
+- https://ortlif.com.br/ — Apresentação institucional e áreas de atuação.
+- https://ortlif.com.br/sobre/ — Essência e princípios da ORTLIF.
+- https://ortlif.com.br/contato/ — Canais de contato.
+
+## Serviços
+- https://ortlif.com.br/servicos/engenharia-de-software/ — Sistemas web, plataformas corporativas e aplicações sob medida.
+- https://ortlif.com.br/servicos/integracao-de-sistemas/ — APIs, integração entre plataformas e sincronização de dados.
+- https://ortlif.com.br/servicos/automacao-inteligente/ — Automação de rotinas e fluxos de trabalho.
+- https://ortlif.com.br/servicos/cloud-e-evolucao/ — Arquitetura, modernização e sustentação de ambientes digitais.
+
+## Contato
+- E-mail: contato@ortlif.com.br
+- WhatsApp: https://wa.me/5511974890296
+
+## Identidade
+- Slogan: Simplificando o complexo.
+- Território: engenharia de software, sistemas, integração, automação e produtos digitais.
+
+## Observação
+As descrições representam o posicionamento institucional divulgado no site. Não inferir clientes, cases, certificações, localizações ou resultados que não estejam publicados.
